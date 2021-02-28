@@ -5,6 +5,8 @@ Fatemeh Salehi Rizi and Michael Granitzer. "Signed Heterogeneous Network Embeddi
  - To generate embeddings and later evaluations run main.py
 
 
-
+# Acknowledgement
+The presented work was developed within the Provenance Analytics project funded by the German Federal Ministry of Education
+and Research, grant agreement number 03PSIPT5C.
 
 
